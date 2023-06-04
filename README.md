@@ -1,2 +1,1 @@
-# AiEmoji
-Home : https://aiemoji.top
+# Hello World
